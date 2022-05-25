@@ -1,0 +1,8 @@
+C:\Users\tasli\OneDrive\Desktop\TechAcademy\Basic_C#_Programs\Challenge4B1\Challenge4B1\Challenge4B1\bin\Debug\Challenge4B1.exe.config
+C:\Users\tasli\OneDrive\Desktop\TechAcademy\Basic_C#_Programs\Challenge4B1\Challenge4B1\Challenge4B1\bin\Debug\Challenge4B1.exe
+C:\Users\tasli\OneDrive\Desktop\TechAcademy\Basic_C#_Programs\Challenge4B1\Challenge4B1\Challenge4B1\bin\Debug\Challenge4B1.pdb
+C:\Users\tasli\OneDrive\Desktop\TechAcademy\Basic_C#_Programs\Challenge4B1\Challenge4B1\Challenge4B1\obj\Debug\Challenge4B1.csproj.AssemblyReference.cache
+C:\Users\tasli\OneDrive\Desktop\TechAcademy\Basic_C#_Programs\Challenge4B1\Challenge4B1\Challenge4B1\obj\Debug\Challenge4B1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tasli\OneDrive\Desktop\TechAcademy\Basic_C#_Programs\Challenge4B1\Challenge4B1\Challenge4B1\obj\Debug\Challenge4B1.csproj.CoreCompileInputs.cache
+C:\Users\tasli\OneDrive\Desktop\TechAcademy\Basic_C#_Programs\Challenge4B1\Challenge4B1\Challenge4B1\obj\Debug\Challenge4B1.exe
+C:\Users\tasli\OneDrive\Desktop\TechAcademy\Basic_C#_Programs\Challenge4B1\Challenge4B1\Challenge4B1\obj\Debug\Challenge4B1.pdb
