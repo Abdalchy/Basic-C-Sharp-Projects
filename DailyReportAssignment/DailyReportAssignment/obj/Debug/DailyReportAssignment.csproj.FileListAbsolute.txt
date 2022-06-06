@@ -1,0 +1,7 @@
+C:\Users\rrich\Desktop\Basic_C#_Programs\DailyReportAssignmentSubmission\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.exe.config
+C:\Users\rrich\Desktop\Basic_C#_Programs\DailyReportAssignmentSubmission\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.exe
+C:\Users\rrich\Desktop\Basic_C#_Programs\DailyReportAssignmentSubmission\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.pdb
+C:\Users\rrich\Desktop\Basic_C#_Programs\DailyReportAssignmentSubmission\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rrich\Desktop\Basic_C#_Programs\DailyReportAssignmentSubmission\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.exe
+C:\Users\rrich\Desktop\Basic_C#_Programs\DailyReportAssignmentSubmission\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.pdb
+C:\Users\rrich\Desktop\Basic_C#_Programs\DailyReportAssignmentSubmission\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.AssemblyReference.cache
