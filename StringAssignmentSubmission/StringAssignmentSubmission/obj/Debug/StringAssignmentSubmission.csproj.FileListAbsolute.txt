@@ -1,0 +1,7 @@
+C:\Users\rrich\Desktop\Basic_C#_Programs\StringAssignmentSubmission\StringAssignmentSubmission\bin\Debug\StringAssignmentSubmission.exe.config
+C:\Users\rrich\Desktop\Basic_C#_Programs\StringAssignmentSubmission\StringAssignmentSubmission\bin\Debug\StringAssignmentSubmission.exe
+C:\Users\rrich\Desktop\Basic_C#_Programs\StringAssignmentSubmission\StringAssignmentSubmission\bin\Debug\StringAssignmentSubmission.pdb
+C:\Users\rrich\Desktop\Basic_C#_Programs\StringAssignmentSubmission\StringAssignmentSubmission\obj\Debug\StringAssignmentSubmission.csproj.AssemblyReference.cache
+C:\Users\rrich\Desktop\Basic_C#_Programs\StringAssignmentSubmission\StringAssignmentSubmission\obj\Debug\StringAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\rrich\Desktop\Basic_C#_Programs\StringAssignmentSubmission\StringAssignmentSubmission\obj\Debug\StringAssignmentSubmission.exe
+C:\Users\rrich\Desktop\Basic_C#_Programs\StringAssignmentSubmission\StringAssignmentSubmission\obj\Debug\StringAssignmentSubmission.pdb
