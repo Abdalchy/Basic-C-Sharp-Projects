@@ -1,0 +1,7 @@
+C:\Users\rrich\Desktop\Basic_C#_Programs\PriceQuoteSubmission\PriceQuoteSubmission\bin\Debug\PriceQuoteSubmission.exe.config
+C:\Users\rrich\Desktop\Basic_C#_Programs\PriceQuoteSubmission\PriceQuoteSubmission\bin\Debug\PriceQuoteSubmission.exe
+C:\Users\rrich\Desktop\Basic_C#_Programs\PriceQuoteSubmission\PriceQuoteSubmission\bin\Debug\PriceQuoteSubmission.pdb
+C:\Users\rrich\Desktop\Basic_C#_Programs\PriceQuoteSubmission\PriceQuoteSubmission\obj\Debug\PriceQuoteSubmission.csproj.AssemblyReference.cache
+C:\Users\rrich\Desktop\Basic_C#_Programs\PriceQuoteSubmission\PriceQuoteSubmission\obj\Debug\PriceQuoteSubmission.csproj.CoreCompileInputs.cache
+C:\Users\rrich\Desktop\Basic_C#_Programs\PriceQuoteSubmission\PriceQuoteSubmission\obj\Debug\PriceQuoteSubmission.exe
+C:\Users\rrich\Desktop\Basic_C#_Programs\PriceQuoteSubmission\PriceQuoteSubmission\obj\Debug\PriceQuoteSubmission.pdb
