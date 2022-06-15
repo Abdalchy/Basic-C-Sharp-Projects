@@ -1,0 +1,7 @@
+C:\Users\rrich\Desktop\Basic_C#_Programs\ClasswMethodAssignment\ClasswMethodAssignment\obj\Debug\ClasswMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\rrich\Desktop\Basic_C#_Programs\ClasswMethodAssignment\ClasswMethodAssignment\obj\Debug\ClasswMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rrich\Desktop\Basic_C#_Programs\ClasswMethodAssignment\ClasswMethodAssignment\bin\Debug\ClasswMethodAssignment.exe.config
+C:\Users\rrich\Desktop\Basic_C#_Programs\ClasswMethodAssignment\ClasswMethodAssignment\bin\Debug\ClasswMethodAssignment.exe
+C:\Users\rrich\Desktop\Basic_C#_Programs\ClasswMethodAssignment\ClasswMethodAssignment\bin\Debug\ClasswMethodAssignment.pdb
+C:\Users\rrich\Desktop\Basic_C#_Programs\ClasswMethodAssignment\ClasswMethodAssignment\obj\Debug\ClasswMethodAssignment.exe
+C:\Users\rrich\Desktop\Basic_C#_Programs\ClasswMethodAssignment\ClasswMethodAssignment\obj\Debug\ClasswMethodAssignment.pdb
