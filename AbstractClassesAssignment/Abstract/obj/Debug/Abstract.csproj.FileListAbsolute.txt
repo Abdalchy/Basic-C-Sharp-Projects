@@ -1,0 +1,14 @@
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Abstract\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Abstract\Abstract\obj\Debug\Abstract.pdb
+C:\Users\rrich\Downloads\T Spencer\Small_C-Sharp_Projects-main\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\rrich\Downloads\T Spencer\Small_C-Sharp_Projects-main\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\Users\rrich\Downloads\T Spencer\Small_C-Sharp_Projects-main\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\rrich\Downloads\T Spencer\Small_C-Sharp_Projects-main\Abstract\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\rrich\Downloads\T Spencer\Small_C-Sharp_Projects-main\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\rrich\Downloads\T Spencer\Small_C-Sharp_Projects-main\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\Users\rrich\Downloads\T Spencer\Small_C-Sharp_Projects-main\Abstract\Abstract\obj\Debug\Abstract.pdb
