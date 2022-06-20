@@ -1,0 +1,7 @@
+C:\Users\rrich\Desktop\Basic_C#_Programs\StructsAssignment\StructsAssignment\bin\Debug\StructsAssignment.exe.config
+C:\Users\rrich\Desktop\Basic_C#_Programs\StructsAssignment\StructsAssignment\bin\Debug\StructsAssignment.exe
+C:\Users\rrich\Desktop\Basic_C#_Programs\StructsAssignment\StructsAssignment\bin\Debug\StructsAssignment.pdb
+C:\Users\rrich\Desktop\Basic_C#_Programs\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.csproj.AssemblyReference.cache
+C:\Users\rrich\Desktop\Basic_C#_Programs\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rrich\Desktop\Basic_C#_Programs\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.exe
+C:\Users\rrich\Desktop\Basic_C#_Programs\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.pdb
