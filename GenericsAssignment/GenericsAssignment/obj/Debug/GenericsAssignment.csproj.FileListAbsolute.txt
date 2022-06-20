@@ -1,0 +1,7 @@
+C:\Users\rrich\Desktop\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\bin\Debug\GenericsAssignment.exe.config
+C:\Users\rrich\Desktop\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\bin\Debug\GenericsAssignment.exe
+C:\Users\rrich\Desktop\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\bin\Debug\GenericsAssignment.pdb
+C:\Users\rrich\Desktop\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.csproj.AssemblyReference.cache
+C:\Users\rrich\Desktop\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rrich\Desktop\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.exe
+C:\Users\rrich\Desktop\Basic_C#_Programs\GenericsAssignment\GenericsAssignment\obj\Debug\GenericsAssignment.pdb
