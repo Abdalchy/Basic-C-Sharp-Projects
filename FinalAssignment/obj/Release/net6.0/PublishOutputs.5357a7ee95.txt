@@ -1,0 +1,7 @@
+C:\Users\rrich\source\repos\FinalAssignment\FinalAssignment\obj\Release\net6.0\PubTmp\Out\FinalAssignment.exe
+C:\Users\rrich\source\repos\FinalAssignment\FinalAssignment\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\rrich\source\repos\FinalAssignment\FinalAssignment\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\rrich\source\repos\FinalAssignment\FinalAssignment\obj\Release\net6.0\PubTmp\Out\FinalAssignment.dll
+C:\Users\rrich\source\repos\FinalAssignment\FinalAssignment\obj\Release\net6.0\PubTmp\Out\FinalAssignment.deps.json
+C:\Users\rrich\source\repos\FinalAssignment\FinalAssignment\obj\Release\net6.0\PubTmp\Out\FinalAssignment.runtimeconfig.json
+C:\Users\rrich\source\repos\FinalAssignment\FinalAssignment\obj\Release\net6.0\PubTmp\Out\FinalAssignment.pdb
